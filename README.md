@@ -10,7 +10,7 @@ Alat-alat forensik ini dapat diinstal pada Ubuntu dan Kali Linux melalui langkah
 **Instalasi di Ubuntu/Kali Linux:**
 
 ```bash
-git clone [https://github.com/SatrioUN/forensic.git](https://github.com/SatrioUN/forensic.git)
+git clone https://github.com/SatrioUN/forensic.git
 cd forensic
 ls
 sudo chmod +x forensic_tool.py
