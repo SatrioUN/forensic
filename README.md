@@ -22,7 +22,7 @@ source venv/bin/activate
 
 Instalasi di Windows:
 
-    Unduh file .zip.
-    Ekstrak file.
-    Buka proyek di Visual Studio Code.
-    Jalankan file Python.
+Unduh file .zip.
+Ekstrak file.
+Buka proyek di Visual Studio Code.
+Jalankan file Python.
