@@ -17,6 +17,7 @@ sudo chmod +x forensic_tool.py
 sudo apt install python3-venv
 python3 -m venv venv
 source venv/bin/activate
+python3 forensic_tool.py
 
 
 
